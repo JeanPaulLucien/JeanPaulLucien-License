@@ -1,0 +1,45 @@
+== Redneck Anything License 1.0 == 
+= English
+= Updated: 31 March 2019
+
+:: To each are permitted to modify and to use this license "as is" for your software, software source codes and other any documents and objects without royalties, additional permissions and payments if the license is not object of profit.
+
+:: This license provides to attached object next rules of using.
+
+To each are permitted with:
+1. to copy and distribute this software, code, document and etc. "as is" with author mention
+2. to use this software, code, document and etc. as part on no-commercial, free software
+3. to use this software, code, document and etc. for no-commercial actions
+
+Liability:
+1. The author is not responsible for the actions performed using this software, code, document and etc.
+2. The author doesn't guarant a support of this software, code, document and etc.
+3. The author will provide bug fixed and updating if it's possible and in author interests.
+4. The author is not responsible for the performance of the software, code, document and etc. in environments other from author.
+5. The user agrees to report about detected errors.
+
+:: The text of this license in Russian prevails over the text of this license in English, pubslished above. In case of disputable situations, the current license in Russian shall be considered correct.
+
+== Деревенская лицензия для всего 1.0 ==
+= Русский
+= Обновлено: 31 марта 2019
+
+:: Каждому разрешается изменять и использовать данную лицензию "как есть" совместно с вашим программным обеспечение, исходным кодом и другими любыми документами и объектами без авторских отчислений, дополнительных разрешений и платежей, если данная лицензия не является объектом получения дохода.
+
+:: Данная лицензия налагает нижеописанные правила использования объекта, который на неё ссылается
+
+Каждому разрешается:
+1. копировать и распространять данное программное обеспечние, код, документы и т.д. "как есть" с упоминанием авторства;
+2. использовать данное программное обеспечение, код, документ и т.д. как часть чего-либо некомерческого, свободного
+3. использовать данное программное обеспечение, код, документ и т.д. для некоммерческих действий.
+
+Ответственность:
+1. Автор не несет ответственности за действия, выполненные с использованием данного программного обеспечение, кода, документа и т.д.
+2. Автор не гарантирует поддержку данного объекта;
+3. Автор предоставляется исправления ошибок и обновления, если такое возможно и в авторских интересах;
+4. Автор не отвечает за производительноть объекта в окружении, отлично от авторского;
+5. Пользователь соглашается сообщать об обнаруженных ошибках.
+
+Текст настоящей лицензии на русском превалирует над текстом лицензии на английскому, вышеизложенно. В случае разногласия настоящую лицензию на русском считать верной.
+
+
